@@ -1,0 +1,27 @@
+body {
+    background: rgb(156, 70, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: black;
+    text-align: center;
+}
+
+section {
+    background: rgb(165, 144, 144);
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.233);
+}
+
+#selectnumber {
+    width: 150px;
+}
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
